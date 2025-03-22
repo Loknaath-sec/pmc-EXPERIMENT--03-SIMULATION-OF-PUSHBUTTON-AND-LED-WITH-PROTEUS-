@@ -74,6 +74,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```c
+Name: LOKNAATH P
+Reg No: 212223240080
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
