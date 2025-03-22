@@ -73,7 +73,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-```
+```c
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
